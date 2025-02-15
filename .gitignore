@@ -1,5 +1,8 @@
 /data
 .env
+*.txt
+*.pem
+*.pub
 
 # compiled output
 /dist
