@@ -3,6 +3,7 @@
 *.txt
 *.pem
 *.pub
+/.vs
 
 # compiled output
 /dist
